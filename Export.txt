@@ -1,0 +1,8 @@
+English: expensive
+Tagalog: mahal
+
+English: love
+Japanese: ai
+Spanish: amor
+Tagalog: mahal
+
